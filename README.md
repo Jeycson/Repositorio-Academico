@@ -2,12 +2,12 @@
 
 ## Información Personal
 
-- **Nombre:** [Jeycson Gabriel López Hernández]
-- **Matrícula:** [0122040057]
-- **Institución:** [Universidad del Istmo]
-- **Programa Académico:** [Ingenieria en Computación]
-- **Período:** [Séptimo semestre, 2025 - 2026 A]
-- **Correo de contacto:** [jeycsonlopez@gmail.com]
+- **Nombre:** [ Jeycson Gabriel López Hernández ]
+- **Matrícula:** [ 0122040057 ]
+- **Institución:** [ Universidad del Istmo ]
+- **Programa Académico:** [ Ingenieria en Computación ]
+- **Período:** [ Séptimo semestre, 2025 - 2026 A ]
+- **Correo de contacto:** [ jeycsonlopez@gmail.com ]
 
 ## Descripción
 
